@@ -34,4 +34,4 @@ A simple but powerful command-line tool written in Bash to archive and compress 
 
 This project was completed as part of the backend developer roadmap from roadmap.sh.
 
-**Project Page URL:** [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/log-archive-tool)
+**Project Page URL:** [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
