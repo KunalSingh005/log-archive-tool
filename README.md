@@ -29,3 +29,9 @@ A simple but powerful command-line tool written in Bash to archive and compress 
     sudo ./log-archive.sh /var/log
     ```
     The compressed file will be saved in a new folder named `archives`.
+
+    ## Project Source
+
+This project was completed as part of the backend developer roadmap from roadmap.sh.
+
+**Project Page URL:** [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/log-archive-tool)
